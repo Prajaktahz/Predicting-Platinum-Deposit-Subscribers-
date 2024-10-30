@@ -9,6 +9,9 @@ The **N/LAB Platinum Deposit** project aims to effectively market a new financia
 ### Data Collection and Preparation
 - **Historical Data**: We utilized historical data from a comparable financial product, which includes various customer features and their previous engagement with banking products.
 - **Feature Engineering**: Important features were identified through exploratory data analysis, including customer demographics, engagement duration, previous subscription outcomes, and contact methods.
+![image](https://github.com/user-attachments/assets/6b6ccca1-9329-47e2-a2fb-ba8d95f27503)
+
+![image](https://github.com/user-attachments/assets/7bc679a5-a1fd-4ecd-b1f7-744ebca26e58)
 
 ### Model Development
 Three different classification models were developed to predict customer interest:
@@ -21,6 +24,7 @@ Three different classification models were developed to predict customer interes
 - **Best Model Selection**: The **Random Forest** classifier emerged as the most effective model for predicting potential subscribers.
 
 ---
+![image](https://github.com/user-attachments/assets/f655f820-4089-41b0-a9ad-6ae81dc2773a)
 
 ## 📈 Results
 The analysis demonstrated the following key findings:
